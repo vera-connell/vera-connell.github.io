@@ -12,9 +12,15 @@ export function MagicMykes() {
         <div className="project-grid">
           <div className="info1">Magic Myke's Mystical Emporium</div>
           <div className="info2">info</div>
-          <div className="info3">capture</div>
+          <div className="info3">
+            <img
+              className="star-crossed-demo"
+              src="images/mykes.PNG"
+              alt="magic myke's ui"
+            />
+          </div>
           <div className="info4">
-            <Link to="https://github.com/vera-connell/star-crossed-api/tree/dev">
+            <Link to="https://github.com/vera-connell/Magic-Mikes-Mystical-Emporium">
               <img
                 className="home-icon"
                 src="images/github-mark.png"

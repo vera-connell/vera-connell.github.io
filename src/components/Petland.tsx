@@ -12,9 +12,15 @@ export function Petland() {
         <div className="project-grid">
           <div className="info1">Happy Magic Pet Land</div>
           <div className="info2">info</div>
-          <div className="info3">capture</div>
+          <div className="info3">
+            <img
+              className="star-crossed-demo"
+              src="images/petland.PNG"
+              alt="pet screenshot"
+            />
+          </div>
           <div className="info4">
-            <Link to="https://github.com/vera-connell/star-crossed-api/tree/dev">
+            <Link to="https://github.com/vera-connell/happy-magic-petland/tree/vera-code-quality">
               <img
                 className="home-icon"
                 src="images/github-mark.png"
