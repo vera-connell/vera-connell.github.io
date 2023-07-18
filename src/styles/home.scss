@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'Cormorant Garamond', serif;
 }
 
@@ -51,19 +51,48 @@ p {
 .item2 {
   width: 30vw;
   aspect-ratio: 1 / 1;
+  box-shadow: inset 5px -5px 10px -5px #000000;
 }
 
 .item3 {
   width: 30vw;
   aspect-ratio: 1 / 1;
+  box-shadow: inset 5px -5px 10px -5px #000000;
 }
 
 .item4 {
   width: 30vw;
   aspect-ratio: 1 / 1;
+  box-shadow: inset 5px -5px 10px -5px #000000;
 }
 
 .item5 {
   width: 30vw;
   box-shadow: inset 5px -5px 10px -5px #000000;
+}
+
+.petland-header {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+}
+
+.star-crossed-header {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.logo-gif {
+  width: 15vw
+}
+
+
+button {
+  background-color: thistle;
+  font-family: monospace;
+  font-size: 20px;
+  border-radius: 100px;
+  border-width: 10px;
+  border-color: rgba(155, 154, 229, 0);
+  height: 10vh;
+  width: 10vw;
 }
