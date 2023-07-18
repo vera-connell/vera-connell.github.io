@@ -38,38 +38,46 @@ p {
 
 .grid-container > div {
   background-color: rgb(255, 255, 255);
-  text-align: center;
-  padding: 20px 0;
   font-size: 30px;
   height: auto;
 }
 
 .item1 {
   box-shadow: inset 5px -5px 10px -5px #000000;
+  padding: 20px 0;
 }
 
 .item2 {
   width: 30vw;
   aspect-ratio: 1 / 1;
   box-shadow: inset 5px -5px 10px -5px #000000;
+  padding: 20px 0;
+  text-align: center;
 }
 
 .item3 {
   width: 30vw;
   aspect-ratio: 1 / 1;
   box-shadow: inset 5px -5px 10px -5px #000000;
+  padding: 20px 0;
+  text-align: center;
 }
 
 .item4 {
   width: 30vw;
   aspect-ratio: 1 / 1;
   box-shadow: inset 5px -5px 10px -5px #000000;
+  padding: 20px 0;
+  text-align: center;
 }
 
 .item5 {
   width: 30vw;
   box-shadow: inset 5px -5px 10px -5px #000000;
+  padding: 50px 50px 50px 50px;
+  text-align: left;
 }
+
 
 .petland-header {
   font-family: 'Press Start 2P', cursive;
