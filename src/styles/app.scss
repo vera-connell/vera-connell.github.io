@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  background: rgb(212,254,255);
+  background: linear-gradient(0deg, rgba(212,254,255,1) 0%, rgba(216,191,216,1) 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.cv {
+  position: fixed;
+  right: 5vw;
+  top: 5vh;
+}
+
+.cv-icon {
+  height: 10vh;
+  width: auto;
+}
