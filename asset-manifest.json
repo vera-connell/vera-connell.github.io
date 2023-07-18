@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.75790de6.js",
+    "main.css": "/static/css/main.32b73ea2.css",
+    "main.js": "/static/js/main.58340b3e.js",
     "static/js/787.7d5863e3.chunk.js": "/static/js/787.7d5863e3.chunk.js",
+    "static/media/Vera-Curriculum-Vitae.pdf": "/static/media/Vera-Curriculum-Vitae.1c4b9257387fecae3e4a.pdf",
     "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.75790de6.js.map": "/static/js/main.75790de6.js.map",
+    "main.32b73ea2.css.map": "/static/css/main.32b73ea2.css.map",
+    "main.58340b3e.js.map": "/static/js/main.58340b3e.js.map",
     "787.7d5863e3.chunk.js.map": "/static/js/787.7d5863e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.75790de6.js"
+    "static/css/main.32b73ea2.css",
+    "static/js/main.58340b3e.js"
   ]
 }
