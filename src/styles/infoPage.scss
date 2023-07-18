@@ -1,0 +1,105 @@
+.info1 { grid-area: splash; }
+.info2 { grid-area: description; }
+.info3 { grid-area: capture; }
+.info4 { grid-area: links; }
+
+.container {
+  margin: 0 auto;
+  width: 60vw
+}
+
+.home {
+  position: fixed;
+  left: 5vw;
+  top: 5vh;
+}
+
+.home-icon {
+  height: 10vh;
+  width: auto;
+}
+
+.cv-icon {
+  height: 10vh;
+  width: auto;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Castoro Titling', cursive;
+  font-weight: lighter;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.app-logo {
+ width: 20vw;
+}
+
+.star-crossed-demo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+
+.project-grid {
+  display: grid;
+  grid-template-areas:
+    'splash splash'
+    'description capture'
+    'description capture'
+    'links links';
+  gap: 40px;
+  padding: 10px;
+}
+
+
+
+.info1 {
+  box-shadow: inset 5px -5px 10px -5px #000000;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  height: auto;
+}
+
+.info2 {
+  width: 30vw;
+  aspect-ratio: 1 / 1;
+  box-shadow: inset 5px -5px 10px -5px #000000;
+  background-color: rgb(255, 255, 255);
+  text-align: left;
+  padding: 50px 50px 50px 50px;
+  font-size: 30px;
+  height: auto;
+}
+
+.info3 {
+  width: 30vw;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  padding: 20px 0;
+}
+
+.info4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.github-link {
+  display: inline-block;
+  margin: 40px;
+}
+
+
+
+
+
+
